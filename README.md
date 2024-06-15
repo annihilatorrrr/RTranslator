@@ -1,13 +1,13 @@
-<img src="https://github.com/niedev/RTranslator/blob/master/images/logo_beta_cut.png" width="280">
+<img src="https://github.com/niedev/RTranslator/blob/v1.00/images/logo_beta_cut.png" width="280">
 
 RTranslator is the world's first open source real-time translation app.
 
 Connect to someone who has the app, connect Bluetooth headphones, put the phone in your pocket and you can have a conversation as if the other person spoke your language.
 <br /><br /><br />
 
-![Conversation mode](https://github.com/niedev/RTranslator/blob/master/images/conversation_image_github.png)
+![Conversation mode](https://github.com/niedev/RTranslator/blob/v1.00/images/conversation_image_github.png)
 <br /><br /><br />
-![WalkieTalkie mode and Costs](https://github.com/niedev/RTranslator/blob/master/images/WalkieTalkie_and_Costs_image_github.png)
+![WalkieTalkie mode and Costs](https://github.com/niedev/RTranslator/blob/v1.00/images/WalkieTalkie_and_Costs_image_github.png)
 <br /><br /><br />
 
 <h3>Conversation mode</h3>
@@ -54,7 +54,7 @@ To create the account and get the file follow this tutorial from a computer or u
 
 First, download the latest version of the app apk file from https://github.com/niedev/RTranslator/releases/ and install it. 
 
-<a href='https://github.com/niedev/RTranslator/releases'><img alt='Get it on GitHub' src='https://github.com/niedev/RTranslator/blob/master/images/get_it_on_github_white_border.png' style="width: 190px; height: 80px;" /></a>
+<a href='https://github.com/niedev/RTranslator/releases'><img alt='Get it on GitHub' src='https://github.com/niedev/RTranslator/blob/v1.00/images/get_it_on_github_white_border.png' style="width: 190px; height: 80px;" /></a>
 
 Then follow these passages:
 <br />
@@ -125,7 +125,7 @@ Bengali, Czech, Chinese, Korean, Danish, Finnish, French, Japanese, Greek, Hindi
 
 <h3>Privacy</h3>
 
-Privacy is a fundamental right. That's why RTranslator does not collect any personal data (I don't even have a server). For more information, read the <a href="https://github.com/niedev/RTranslator/blob/master/privacy/Privacy_Policy_en.md" target="_blank" rel="noopener noreferrer">privacy policy</a>.
+Privacy is a fundamental right. That's why RTranslator does not collect any personal data (I don't even have a server). For more information, read the <a href="https://github.com/niedev/RTranslator/blob/v1.00/privacy/Privacy_Policy_en.md" target="_blank" rel="noopener noreferrer">privacy policy</a>.
 
 Concerning audio data and transcripts sent to Google for translation and speech recognition, they are sent only when speaking in WalkieTalkie mode or Conversation mode and the microphone becomes clearer, so only when necessary. Also, the data are used by Google only to carry out these operations and in no other way.
 
@@ -145,7 +145,7 @@ This is an open source and completely ad-free project, I don't make any money fr
 
 So, if you like the project and want to say thank you and support it, you can make a donation via paypal by clicking on the button below (any amount is well accepted).
 
-<a href='https://www.paypal.com/donate/?business=3VBKS3WC6AFHN&no_recurring=0&currency_code=EUR'><img alt='Donate' src='https://raw.githubusercontent.com/niedev/RTranslator/master/images/Paypal.png' style="width: 190px; height: 80px;" /></a>
+<a href='https://www.paypal.com/donate/?business=3VBKS3WC6AFHN&no_recurring=0&currency_code=EUR'><img alt='Donate' src='https://raw.githubusercontent.com/niedev/RTranslator/v1.00/images/Paypal.png' style="width: 190px; height: 80px;" /></a>
 
 In case you will donate, or just live a star, thank you :heart:
 <br /><br />
